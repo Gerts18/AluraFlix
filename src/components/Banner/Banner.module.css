@@ -8,3 +8,9 @@
     padding-inline: 50px;
     box-sizing: border-box;
 }
+
+.buttonsContainer{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}

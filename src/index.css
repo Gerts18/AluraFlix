@@ -1,11 +1,13 @@
+
+
 :root{
     --primary-color:#262626;
+    --blue: #2271D1;
 }
 
 html {
     line-height: 1.15; 
     -webkit-text-size-adjust: 100%; 
-    font-family: GandhiSansRegular;
   }
   body {
     margin: 0;
