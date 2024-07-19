@@ -1,8 +1,12 @@
-
-
 :root{
     --primary-color:#262626;
     --blue: #2271D1;
+    --secondary-font: "Source Sans Pro"
+}
+
+@font-face {
+  font-family: "Source Sans Pro" ;
+  src: url(../src/assets/Fonts/SourceSansPro-Regular.otf);
 }
 
 html {
