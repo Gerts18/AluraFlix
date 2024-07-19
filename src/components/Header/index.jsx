@@ -1,8 +1,8 @@
 import Button from '../Button'
-import styles from './Banner.module.css'
+import styles from './Header.module.css'
 import logo from './LogoMain.png'
 
-const Banner = () => {
+const Header = () => {
   return (
     <header className={styles.header}>
         <div>
@@ -20,4 +20,4 @@ const Banner = () => {
   )
 }
 
-export default Banner
+export default Header
