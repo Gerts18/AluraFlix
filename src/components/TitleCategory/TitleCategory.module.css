@@ -1,0 +1,13 @@
+.texto{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: var(--primary-font);   
+    margin: 0;
+    border-radius: 15px;
+    padding-block: 8px;
+    padding-inline: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
