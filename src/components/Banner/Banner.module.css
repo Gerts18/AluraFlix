@@ -5,4 +5,9 @@
     background-size: cover;
     position: relative;
     filter: brightness(5px);
+    display: flex;
+}
+
+.info {
+    display: flex;
 }
