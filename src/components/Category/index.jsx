@@ -1,5 +1,6 @@
 import styles from './Category.module.css'
 import TitleCategory from '../TitleCategory'
+import Card from '../Card'
 
 const Category = () => {
   return (
@@ -8,7 +9,8 @@ const Category = () => {
           Adventures
         </TitleCategory>
         <div className={styles.content}>
-
+          <Card/>
+          <Card/>
         </div>
     </section>
   )
