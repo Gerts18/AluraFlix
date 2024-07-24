@@ -14,7 +14,7 @@ const Banner = () => {
             </div>
             <div
                 className={styles.photo}
-                style={{ color: `#6BD1FF`, backgroundImage: `url("https://cdn2.excelsior.com.mx/800x600/filters:format(jpg):quality(75)/media/pictures/2024/05/08/3113352.jpg")` }}
+                style={{ color: `#6BD1FF`, backgroundImage: `url("https://assets-prd.ignimgs.com/2023/05/17/mission-impossible-dead-reckoning-part-one-ver2-button-1684350230547.jpg")` }}
             ></div>
         </div>
     )

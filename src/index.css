@@ -2,6 +2,7 @@
 
 :root{
     --primary-color:#262626;
+    --secondary-color: rgba(0, 0, 0, 0.90);
     --blue: #2271D1;
     --primary-font: "Roboto";
     --secondary-font: "Source Sans Pro";
