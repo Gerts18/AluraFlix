@@ -5,7 +5,12 @@ const Main = () => {
   return (
     <>
         <Banner/>
-        <Category/>
+        <Category color={'#6BD1FF'}>
+          Adventures
+        </Category>
+        <Category color={'#00C86F'}>
+          Comedy
+        </Category>
     </>
   )
 }
