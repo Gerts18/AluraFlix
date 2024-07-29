@@ -1,8 +1,11 @@
 import styles from './Footer.module.css'
+import logo from '/img/LogoMain.png'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer className={styles.footer}>
+        <img src={logo} alt="" />
+    </footer>
   )
 }
 
