@@ -11,6 +11,7 @@ const Main = () => {
         <Category color={'#00C86F'}>
           Comedy
         </Category>
+        
     </>
   )
 }
