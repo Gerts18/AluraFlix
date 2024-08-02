@@ -1,6 +1,6 @@
 import Button from '../Button'
 import styles from './Header.module.css'
-import logo from './LogoMain.png'
+import logo from '/img/LogoMain.png'
 
 const Header = () => {
   return (

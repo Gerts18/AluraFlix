@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../../components/Header'
 import { Outlet } from 'react-router-dom'
+import Footer from '../../components/Footer'
 
 const BasePage = () => {
   return (
@@ -9,6 +10,7 @@ const BasePage = () => {
         <div>
             <Outlet/>   
         </div>
+        <Footer/>
     </main>
   )
 }
